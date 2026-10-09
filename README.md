@@ -1,2 +1,2 @@
-# tex
-Latex files of really old papers (mirror of 4unitmaths.com)
+# texpdf
+PDF of latex files of really old MX2 papers (partial mirror of 4unitmaths.com)
